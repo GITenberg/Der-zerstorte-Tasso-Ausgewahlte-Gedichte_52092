@@ -1,0 +1,27 @@
+_repo: Der-zerstorte-Tasso-Ausgewahlte-Gedichte_52092
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bruckner, Ferdinand
+    aliases:
+    - Brukner, Ferdinand
+    - Tagger, Theodor
+    birthdate: 1891
+    deathdate: 1958
+    gutenberg_agent_id: '46672'
+    url: http://www.gutenberg.org/2009/agents/46672
+description: ''
+gutenberg_issued: '2016-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52092'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PT'
+- GITenberg
+title: 'Der zerstörte Tasso: Ausgewählte Gedichte'
+url: http://www.gutenberg.org/ebooks/52092
